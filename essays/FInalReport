@@ -1,0 +1,36 @@
+---
+layout: essay
+type: essay
+title: "CSCFinalProject"
+# All dates must be YYYY-MM-DD format!
+date: 2022-09-09
+published: true
+labels:
+  - Engineering
+---
+
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+
+
+	My project is to provide a simple blog website based upon music. It should have content like new upcoming music, old favorites, and a place for my personal playlist that is constantly updated. It is an informative style website making it useful for people with genuine interest in finding new music or an interest in music in general. The application provides opinion-based reviews, updates on new music coming out, and a personally styled playlist. The projects title is SeasFinest. I, Connor Holt, built the blog with help from Mr. Cordle. The customers are our targeted audience of people interested in modern music. 
+
+	System requirements needed for a user to use the blog website is access to the internet via computer, phone, or tablet. The user is required to have their software be up to date and hardware capable running the website smoothly. The user’s computer system should have at least windows 7 and at least 2mbps of broadband internet connection. The site should be clean and simple yet intriguing. The product should be very easy to use and operate from the user perspective. The website should have a simple design. Users should be able to import their email to subscribe to the blog The Users should have full access to the website containing information on new upcoming artists, current hits, and an updated playlist. A design constraint had was how to implement an email subscribe list and link a public playlist on the site. 
+
+	The project works via the user accessing the URL, surfing the website, and using the features made available to them. The user can insert their own comments and feedback on certain areas of the website. The user should be able to subscribe to the blog via email giving them consistent updates about the site. The project benefits people that have a passion for modern day music. The hope is to provide a place for users to find new songs and entertainment along the way. The blog should not have any legal impacts to society as it is mainly opinion based. 
+
+
+	Overall, the project is very light on hardware equipment and the user’s software should be up to date for the blog to be run as intended. The Blog is very informational with many different sections in the hope of grabbing the user’s attention. It provides new music on Friday’s, album reviews, upcoming artists, and more. The goal is to entertain and inform as many users as possible in hope to develop a decent following. 
+
+	Recommendations of how to continue to improve the blog would be to keep the site as up to date as possible. This will require weekly updates and makeovers on how the website is designed. I think having some parts that change consistently would be a good idea. Along with having some parts of the website that remain the same other than content. This will give consistent users a sense of comfort when using the site. Adding a dedicated playlist to the site is something that I would like to work on as well. 
+
+	Appendices 
+References will be consistently changing as we develop new content and change the site around. We will have to provide the correct credit to our sources and be careful of copyright issues along the way. This will be very important in the effort to keep the site successful. Some sites that have helped along the development process of this project are below. 
+
+
+
+Carnes, B. (2022, August 13). FreeCodeCamp. Retrieved from freecodecamp: https://www.freecodecamp.org/news/20-beginner-python-projects/
+Cordle, S. (2022, September 8). Professor. Sullivan University. Louisville, Kentucky, United States of America.
+HotNewHipHop. (2022, August 15). HotNewHipHop. Retrieved from HotNewHipHop: https://www.hotnewhiphop.com/articles/entertainment/
+WordPress. (2022, August 12). WordPress. Retrieved from WordPress: https://wordpress.com/
+
+
